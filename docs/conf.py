@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'TokDesigner'
-copyright = '2022, ORNLFusion'
+project = 'TokSimulator'
+copyright = '2024, ORNLFusion'
 author = 'ORNLFusion'
 
 # The full version, including alpha/beta/rc tags
